@@ -1,0 +1,4 @@
+If you want to run this project,you need to download this 3 pretrained weights to continue.
+1.'shufflenetv2_x1.0': 'https://download.pytorch.org/models/shufflenetv2_x1-5666bf0f80.pth'
+2.'mobilenet_v2': 'https://download.pytorch.org/models/mobilenet_v2-b0353104.pth'
+3.'resnet50': 'https://download.pytorch.org/models/resnet50-19c8e357.pth'
